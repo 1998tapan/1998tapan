@@ -3,7 +3,7 @@
 </p>
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=1998tapan&label=Profile%20views&color=0e75b6&style=flat")
+![Profile Views](https://komarev.com/ghpvc/?username=1998tapan&label=Profile%20views&color=0e75b6&style=flat")
 [![Github](https://img.shields.io/github/followers/1998tapan?label=Follow&style=social)](https://github.com/1998tapan)
 
 <p>
